@@ -303,24 +303,24 @@ PageIndex Blog, Sep 2025.
 
 © 2026 [Vectify AI](https://vectify.ai)
 
-
 ---
 
-## 🔔 Scoras Digital DevOps Agent — Verificação
+## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-43%2F100%20(D)-orange?style=for-the-badge&logo=github)](./andersonamaral2_PageIndex_2026-07-26.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-66%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_PageIndex_2026-07-27.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/PageIndex)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `26/07/2026` |
-| 📊 Score DevOps & Segurança | `43/100` |
-| 🎯 Nota | D — Abaixo do esperado |
-| 📄 Relatório Completo | [andersonamaral2_PageIndex_2026-07-26.md](./andersonamaral2_PageIndex_2026-07-26.md) |
+| 📅 Data da Avaliação | `27/07/2026` |
+| 📊 Score DevOps & Segurança | `66/100` |
+| 🎯 Nota | C — Regular |
+| 📄 Relatório Completo | [andersonamaral2_PageIndex_2026-07-27.md](./andersonamaral2_PageIndex_2026-07-27.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **26/07/2026***
+> *Última avaliação: **27/07/2026***
 
 ---
+
